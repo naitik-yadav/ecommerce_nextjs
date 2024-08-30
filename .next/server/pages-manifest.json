@@ -2,9 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/products": "pages/products.js",
-  "/api/products": "pages/api/products.js",
-  "/product/[pid]": "pages/product/[pid].js",
-  "/api/product/[pid]": "pages/api/product/[pid].js"
+  "/": "pages/index.js"
 }
